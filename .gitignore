@@ -1,0 +1,4 @@
+/resnet_gray_weights.pth
+/checkpoint-trained.pth
+/colorization_release_v2.caffemodel
+/PySimpleGUI_Colorizer
